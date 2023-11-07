@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Kannada:wght@100&display=swap');
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -198,6 +200,7 @@ body::after {
     position: absolute;
     top: 50%;
     transform: translateY(0%);
+    font-family: 'Noto Sans Kannada', sans-serif;
 }
 
 
